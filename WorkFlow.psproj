@@ -1,0 +1,11 @@
+﻿<Project Synchronized="False" SyncFilter="*.ps1;*.psm1;*.psd1;*.ps1xml;*.psf;*.pss;*.xml;*.help.txt">
+  <Version>2.1</Version>
+  <FileID>e52c7a3d-a175-4051-a4e1-30fb298e6045</FileID>
+  <ProjectType>0</ProjectType>
+  <Folders />
+  <Files>
+    <File Build="0">Startup.pss</File>
+    <File Build="0" Shared="True" ReferenceFunction="Invoke-Global_ps1">Globals.ps1</File>
+    <File Build="0" ReferenceFunction="Show-MainForm_psf">MainForm.psf</File>
+  </Files>
+</Project>
